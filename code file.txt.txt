@@ -1,1 +1,1 @@
-python_list = list[0, 2, 5]
+python_list = list[0, 2, 5, 8]
